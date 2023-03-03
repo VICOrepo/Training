@@ -7,8 +7,14 @@ h1 {
 }
 .cl1{
     color: blue;
+    background-color: lightblue;
 }
 
 #text {
     color: maroon;
+    background-color: lightcyan;
+}
+ 
+.font style{
+    font-family: Verdana; 
 }
